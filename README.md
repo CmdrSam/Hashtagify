@@ -26,8 +26,9 @@
 
 
 ### How does it work ?
--The Googls AutoML Detects and classifies multiple objects including the location of each object within the image automatically. With the help of Googls vast database the results are very accurate.
--Learn more about [AutoML Vision](https://cloud.google.com/vision/automl/object-detection/docs/)
+The Googls AutoML Detects and classifies multiple objects including the location of each object within the image automatically. With the help of Googls vast database the results are very accurate.
+
+Learn more about [AutoML Vision](https://cloud.google.com/vision/automl/object-detection/docs/)
 
 ### APIs Used
 
